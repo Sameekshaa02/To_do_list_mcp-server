@@ -1,0 +1,9 @@
+{
+    "mcpServers": {
+      "todo-server": {
+        "command": "/Users/sam/Documents/To_do_list_mcp-server-1/mcp-todo-server/venv/bin/python",
+        "args": ["/Users/sam/Documents/To_do_list_mcp-server-1/mcp-todo-server/server.py"],
+        "env": {}
+      }
+    }
+  }
